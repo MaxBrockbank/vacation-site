@@ -1,4 +1,4 @@
-<h1 align="center">||Vacation||</h1>
+<h1 align="center">||Vacation Site||</h1>
 <div align="center">
 <img src="https://github.com/MaxBrockbank.png" width="200px" height="auto" >
 <img src="https://github.com/fmacc3.png" width="200px" height="auto" >
