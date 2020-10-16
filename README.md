@@ -4,7 +4,7 @@
 <img src="https://github.com/fmacc3.png" width="200px" height="auto" >
 </div>
 <p align="center">Authored by Max Brockabnk & Floyd McCallum</p>
-<p align="center">Updated on <!-- Last updated --></p>
+<p align="center">Updated on Oct 15th, 29020</p>
 
 ## Description
 This is a basic site used to practice using Bootstrap for styling. We used built-in classes such as container, jumbotron, card and the grid system. 
