@@ -12,7 +12,7 @@ This is a basic site used to practice using Bootstrap for styling. We used built
 ## Set-up Instructions
 1. Clone git repo.
 2. Opne index.html file in browerser.
-* OR <a href="https://maxbrockbank.github.io/basic-site-template/">Click Here</a>
+* OR <a href="https://maxbrockbank.github.io/vacation-site/">Click Here</a>
 
 ## Technologies Used
 * HTML
